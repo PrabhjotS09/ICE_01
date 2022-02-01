@@ -13,7 +13,7 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
-        card obj= new card("abc",1)
+        card obj= new card("abc",1);
         obj.setSuit("hearts");  
                 /*Modifier- Prabhjot Singh
                 Student number- 991633748*/
